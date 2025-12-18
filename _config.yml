@@ -24,9 +24,9 @@ repository               : "GuihengSI/guihengsi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Guiheng SI"
+  name             : "Guiheng SI | 司桂恒"
   pronouns         : # example: "she/her"  
-  bio              : "Introduction"
+  bio              : "PhD, Tsinghua | Postdoc, NUS"
   location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : 'https://orcid.org/0009-0002-2572-151X'
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

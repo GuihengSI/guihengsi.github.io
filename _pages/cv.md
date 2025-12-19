@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+  * Ph.D. in Architecture, Tsinghua University, China, 2019-2025
+      * Visiting Ph.D. student, National University of Singapore, Singapore, 2023-2024
+  * Bachelor of Architecture, Tsinghua University, China, 2015-2019
+      * Exchange student, Technical University of Madrid, Spain, 2017-2018
+
+:   Note: Direct-entry PhD following the bachelor's degree.
+
 
 Work experience
 ======

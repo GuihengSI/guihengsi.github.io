@@ -11,11 +11,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Experience"
-    url: /cv/    
+  - title: "Research & Design projects"
+    url: /projects/    
     
-  - title: "Awards"
-    url: /awards/
+  #- title: "Awards"
+  #  url: /awards/
     
   # - title: "CV"
   #   url: /cv-json/

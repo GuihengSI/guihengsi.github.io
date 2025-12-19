@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-I am currently conducting postdoctoral research at the Centre for Sustainable Asian Cities, National University of Singapore, under the supervision of Prof. [HENG Chye Kiang](https://cde.nus.edu.sg/arch/staffs/heng-chye-kiang-dr/). I obtained my PhD degree from the School of Architecture, Tsinghua University, supervised by Prof. [ZHUANG Weimin](https://www.arch.tsinghua.edu.cn/info/FArchitecture/1744). During my PhD, I was a visiting PhD student at the National University of Singapore under the supervision of Dr. [ZHANG Ye](https://www.arch.tsinghua.edu.cn/info/FArchitecture/2532). I received my Bachelor of Architecture degree from the School of Architecture, Tsinghua University.
+I am currently conducting postdoctoral research at the Centre for Sustainable Asian Cities, National University of Singapore, under the supervision of Prof. [HENG Chye Kiang](https://cde.nus.edu.sg/arch/staffs/heng-chye-kiang-dr/). I obtained my PhD degree from the School of Architecture, Tsinghua University, supervised by Prof. [ZHUANG Weimin](https://www.arch.tsinghua.edu.cn/info/FArchitecture/1744). During my PhD, I was a visiting PhD student at the National University of Singapore under the supervision of Dr. [ZHANG Ye](https://www.arch.tsinghua.edu.cn/info/FArchitecture/2532). I received my Bachelor of Architecture degree from the School of Architecture, Tsinghua University. During my undergraduate studies, I was an exchange student at the Technical University of Madrid.
+
+Please find my full CV [here](https://guihengsi.github.io/files/CV.pdf)
 
 
 Research Interest

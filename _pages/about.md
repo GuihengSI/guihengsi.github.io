@@ -20,4 +20,4 @@ My research interests focus on integrating empirical and theoretical approaches 
 
   * **Urban Spatial Design and Residents' Perceptions and Behaviors:** examining how users perceive and interact with urban spaces through empirical studies, and identifying design-related factors to support more responsive and evidence-informed design and planning decisions.
 
-  * **Pre-Programming and Post-Occupancy Evaluation in Architecture and Urban Design:** advancing the development of theories and methods related to pre-programming and post-occupancy evaluation, to support more well-informed practices through systematic planning and evaluation mechanisms across the full life cycle.
+  * **Pre-design Programming and Post-Occupancy Evaluation in Architecture and Urban Design:** advancing the development of theories and methods related to pre-design programming and post-occupancy evaluation, to support more well-informed practices through systematic planning and evaluation mechanisms across the full life cycle.

@@ -21,6 +21,6 @@ My research interests focus on integrating empirical and theoretical approaches 
 
   * **Data-Driven Evaluation of Urban Residential Spaces:** developing algorithmic frameworks and models based on multi-source urban data to support residential space evaluation, inform design and policy decisions, and advance sustainable and equitable urban renewal.
 
-  * **Urban Spatial Design and Residents' Perceptions and Behaviors:** examining how users perceive and interact with urban spaces through empirical studies, and identifying design-related factors to support more responsive and evidence-informed decisions.
+  * **Urban Spatial Design and Residents' Perceptions and Behaviors:** examining how users perceive and interact with urban spaces through empirical studies, and identifying design-related factors to support more responsive and evidence-informed design strategies.
 
-  * **Pre-design Programming and Post-Occupancy Evaluation in Architecture and Urban Design:** advancing the development of theories and methods related to pre-design programming and post-occupancy evaluation, to support more well-informed practices across the full life cycle.
+  * **Programming and Post-Occupancy Evaluation in Architecture and Urban Design:** advancing the development of theories and methods related to pre-design programming and post-occupancy evaluation, to support more well-informed practices across the full life cycle.

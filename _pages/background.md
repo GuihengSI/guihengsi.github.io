@@ -5,7 +5,6 @@ permalink: /background/
 author_profile: true
 ---
 
-{% include toc %}
 
 Education
 ------

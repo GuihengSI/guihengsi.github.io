@@ -13,16 +13,17 @@ Education
 * **Bachelor** of Architecture, Tsinghua University, China, 2015-2019
     * Exchange student, Technical University of Madrid, Spain, 2017-2018
 
-
 Teaching
 ------
-
-
+* **Teaching Assistant**, Tsinghua University
+    * Introduction to Environmental Behavior-research Method, Fall Semester, 2019
+    * Architectural Programming Guide, Spring Semester, 2020
+* **Invited Lecture**, Beijing Forestry University
+    * Architectual Programming and Post-Occupancy Evaluation, Mar 2023
 
 Academic Service
 ------
-
-
+* **Deputy Secretary-General**, Student Branch, The Architectural Society of China, 2020-2024
 
 Honors & Awards
 ------

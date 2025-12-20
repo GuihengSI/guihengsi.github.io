@@ -5,6 +5,8 @@ permalink: /background/
 author_profile: true
 ---
 
+{% include toc %}
+
 Education
 ------
 * **Ph.D.** in Architecture, Tsinghua University, China, 2019-2025

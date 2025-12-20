@@ -15,11 +15,11 @@ Education
 
 Teaching
 ------
+* **Invited Lecture**, Beijing Forestry University
+    * Architectual Programming and Post-Occupancy Evaluation, Mar 2023
 * **Teaching Assistant**, Tsinghua University
     * Introduction to Environmental Behavior-research Method, Fall Semester, 2019
     * Architectural Programming Guide, Spring Semester, 2020
-* **Invited Lecture**, Beijing Forestry University
-    * Architectual Programming and Post-Occupancy Evaluation, Mar 2023
 
 Academic Service
 ------

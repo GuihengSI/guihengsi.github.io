@@ -14,8 +14,8 @@ main:
   - title: "Research & Design Projects"
     url: /projects/    
     
-  #- title: "Awards"
-  #  url: /awards/
+  - title: "Academic Background"
+    url: /background/
     
   # - title: "CV"
   #   url: /cv-json/

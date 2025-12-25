@@ -7,7 +7,9 @@ author_profile: true
 
 Journal Articles
 ------
-* **Si G**, Zhang Y, Zhuang W<sup>*</sup>. (2025). [Will opening the gated community be perceived beneficial by residents? A comparative study of Beijing and Singapore](https://www.sciencedirect.com/science/article/pii/S0197397525000463). _Habitat International_, 157, 103330.
+* [Accepted] **Si G**, He M, Zhuang W, Zhang Y<sup>*</sup>. (2026). The complexity of urban form's impacts on residents' neighborhood perception: Machine learning evidence from Singapore. _Habitat International_
+
+* **Si G**, Zhang Y<sup>*</sup>, Zhuang W. (2025). [Will opening the gated community be perceived beneficial by residents? A comparative study of Beijing and Singapore](https://www.sciencedirect.com/science/article/pii/S0197397525000463). _Habitat International_, 157, 103330.
 
 * Liang S<sup>*</sup>, Huang B, **Si G**. (2025). [Post-occupancy evaluation on place-making of urban commercial complex: Case study of Taikoo Li Sanlitun in Beijing](https://doi.org/10.3969/j.issn.1004-6658.2025.03.010). _Human Settlements_, 2025(03):36-43. (in Chinese)
 

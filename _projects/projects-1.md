@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Mapping the Daily Mobility of Older Adults, Dec 2025-Present"
+excerpt: "A GPS-Based Study of Mobility and Built Environment Interaction in Singapore's Public Housing Neighbourhoods"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Role: 
+------
+Project Member
+
+Project Description:
+------
+This project is funded by the Ministry of Education, Singapore, with Prof. XXX as the Principal Investigator. It examines the spatial patterns of daily mobility among older adults in public housing neighborhoods in Singapore, and develops a quantitative framework to investigate how neighborhood environmental characteristics influence these mobility behaviors.

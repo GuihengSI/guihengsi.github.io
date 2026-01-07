@@ -7,7 +7,7 @@ collection: portfolio
 
 Project Description:
 ------
-Developing a multidimensional indicator system that integrates architectural programming and post-occupancy evaluation for large public buildings and urban spaces, and quantitatively testing the interaction pathways and underlying mechanisms among the indicators.
+This project is funded by the National Key R&D Program of China, with Prof. Weimin ZHUANG as the Principal Investigator. It aims to develop a multidimensional indicator system that integrates programming and post-occupancy evaluation for large public buildings and urban spaces, and to quantitatively examine the interaction pathways and underlying mechanisms among these indicators, thereby supporting more rational decision-making across the full life cycle of space.
 
 Publications:
 ------

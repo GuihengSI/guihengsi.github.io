@@ -12,8 +12,6 @@ I am currently conducting postdoctoral research at the Centre for Sustainable As
 
 I previously worked as an architectural intern at [THAD](https://www.thad.com.cn/) and [Jiakun Architects](http://www.jiakun.com/), where I contributed to the design of several large-scale public building projects and design competitions.
 
-Please find my full CV [here](https://guihengsi.github.io/files/CV.pdf)
-
 
 Research Interest
 ------

@@ -1,6 +1,6 @@
 ---
 title: "Post-Occupancy Evaluation of the Commercial District at Sanlitun Taikoo Li"
-excerpt: "Jun 2020-Jun 2021, Core Project Member, People's Government of Daxing District Beijing"
+excerpt: "Jun 2020-Jun 2021, Core Project Member, Swire Properties"
 collection: portfolio
 ---
 

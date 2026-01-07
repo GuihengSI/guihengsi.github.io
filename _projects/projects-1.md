@@ -1,6 +1,6 @@
 ---
 title: "Mobility and Built Environment Interaction in Singapore's Public Housing Neighbourhoods"
-excerpt: "Dec 2025-Present | Project Member"
+excerpt: "Dec 2025-Present | Project Member | MOE, Singapore"
 collection: portfolio
 ---
 

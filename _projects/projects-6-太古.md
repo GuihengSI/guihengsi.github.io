@@ -12,3 +12,7 @@ This project is commissioned by Swire Properties. It conducts quantitative spati
 Online Report: [The Creative Transformation of Taikoo Li Sanlitun](https://www.swirepacific.com/en/investor-relations/updates-to-our-shareholders/press-releases/swire-properties-and-tsinghua-university-publish-first-places-impact-report-on-taikoo-li-sanlitun-beijing)
 
 <img src='/images/taikoo.jpg'>
+
+Publications:
+------
+* Liang S<sup>*</sup>, Huang B, **Si G**. (2025). [Post-occupancy evaluation on place-making of urban commercial complex: Case study of Taikoo Li Sanlitun in Beijing](https://doi.org/10.3969/j.issn.1004-6658.2025.03.010). _Human Settlements_, 2025(03):36-43. (in Chinese)

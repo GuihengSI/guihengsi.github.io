@@ -7,6 +7,6 @@ collection: portfolio
 
 Project Description:
 ------
-该项目受到北京市大兴区政府委托，对相关城市地段设计进行了空间策划并编制了系统的设计导则。
+This project is commissioned by the People's Government of Daxing District, Beijing. It conducts spatial programming for the relevant urban sites and develops a systematic set of urban design guidelines to inform and coordinate subsequent planning and design processes.
 
 <img src='/images/daxing.jpg'>

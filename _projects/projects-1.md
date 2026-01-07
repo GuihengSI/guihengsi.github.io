@@ -1,6 +1,6 @@
 ---
-title: "Mapping the Daily Mobility of Older Adults, Dec 2025-Present"
-excerpt: "A GPS-Based Study of Mobility and Built Environment Interaction in Singapore's Public Housing Neighbourhoods<br/>Role: Project Member"
+title: "Mapping the Daily Mobility of Older Adults"
+excerpt: "A GPS-Based Study of Mobility and Built Environment Interaction in Singapore's Public Housing Neighbourhoods<br/>Role: Project Member<br/>Dec 2025-Present"
 collection: portfolio
 ---
 

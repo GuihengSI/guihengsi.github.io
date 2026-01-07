@@ -1,5 +1,5 @@
 ---
-title: "The Integration Mechanism between Post-Occupancy Evaluation of Public Buildings and Urban Evaluation Systems"
+title: "The Integration Mechanism between POE of Public Buildings and Urban Evaluation Systems"
 excerpt: "Jan 2021-Dec 2021, Research Assistant, Chinese Academy of Engineering"
 collection: portfolio
 ---

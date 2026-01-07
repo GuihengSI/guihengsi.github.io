@@ -17,6 +17,8 @@ Teaching
 ------
 * **Invited Lecture**, Beijing Forestry University
     * Architectual Programming and Post-Occupancy Evaluation, Mar 2023
+* **Invited Lecture**, Tsinghua University
+    * Urban Planning Design Studio - Software Skills, Mar 2020-Apr 2020   
 * **Teaching Assistant**, Tsinghua University
     * Introduction to Environmental Behavior-research Method, Fall Semester, 2019
     * Architectural Programming Guide, Spring Semester, 2020
@@ -24,7 +26,6 @@ Teaching
 Academic Service
 ------
 * **Deputy Secretary-General**, Student Branch, The Architectural Society of China, 2020-2024
-
-Honors & Awards
-------
+* **Academic Advisor** for Undergraduate Classes (Year 2019), School of Architecture, Tsinghua University, 2019-2024
+* **Deputy Head**, the Student Affairs Working Group, School of Architecture, Tsinghua University, 2022-2024
 

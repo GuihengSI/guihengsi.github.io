@@ -7,6 +7,8 @@ author_profile: true
 
 Journal Articles
 ------
+* **Si G**, Peng B, lv X, Zhuang W, Liang S<sup>*</sup>.(2026). Mapping Construction Between the 'Architectural Programming' and 'Post-Occupancy Evaluation' Indicator Systems for Large-Scale Public Buildings._World Architecture_.(Accepted, In Press)
+
 * **Si G**, He M, Zhuang W, Zhang Y<sup>*</sup>. (2026). [The complexity of urban form's impacts on residents' neighborhood perception: Machine learning evidence from Singapore](https://www.sciencedirect.com/science/article/pii/S0197397525004175). _Habitat International_, 168, 103701.
 
 * **Si G**, Zhang Y<sup>*</sup>, Zhuang W. (2025). [Will opening the gated community be perceived beneficial by residents? A comparative study of Beijing and Singapore](https://www.sciencedirect.com/science/article/pii/S0197397525000463). _Habitat International_, 157, 103330.
